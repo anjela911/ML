@@ -1,0 +1,21 @@
+﻿GMAT Score,Work Exp,,,,
+716,3,,,,
+,,,,,
+,,,,,
+Student name,GMAT Score,Work Exp,InternationalAwards, Admission,Distance mes
+Ganesh,720,1,2,Yes,4.472135955
+Anand,710,2,0,No,6.08276253
+Mukesh,690,0,1,No,26.17250466
+Ram,750,0,4,Yes,34.13209633
+Shankar,670,4,2,Yes,46.01086828
+Chinmay,650,6,2,Yes,66.06814664
+Aman,600,1,0,No,116.0172401
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Step 1: calculated the distance based distancd formula and saved in distance column,,,,,
+Step 2: sort the distance column to see who is nearest,,,,,
+Step 3: K = 3,,,,,
+"step 4: Top 3  result showing most voting from Admiinistration column show ing No, so Ram will not get admission",,,,,
